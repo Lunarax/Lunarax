@@ -2,6 +2,7 @@
 
 
 I'm studying Software Engineering in Atilim Universcity/Turkey
+
 I'm learing C++(mostly from my classes) and Python(by myself)
 I'm mostly looking for things that can improve my understanding in writing codes 
 You can ask me anything you want ofc but i don't think i would have the knowledge to answer it properly for now
